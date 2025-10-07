@@ -5,6 +5,6 @@
 ### Bibliotea: React
 
 Descrição das pastas ⤵ <br>
-Aula 1: _introdução_ <br>
-Aula 2: página de _login_ <br>
-Aula 3: _homepage_
+Aula 1: _introdução_ (11/09/2025) <br> 
+Aula 2: página de _login_ (25/09/2025) <br>
+Aula 3: _homepage_ (06/10/2025)
