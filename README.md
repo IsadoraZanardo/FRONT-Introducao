@@ -3,7 +3,7 @@
 😎 O diretório principal representa os _exercícios_ trabalhados em aula. Dentro dele, as aulas são numeradas em ordem _crescente_.
 
 ### Bibliotea: React
-<br>
+
 Descrição das pastas ⤵ <br>
 Aula 1: _introdução_ <br>
 Aula 2: página de _login_ <br>
