@@ -1,3 +1,5 @@
+//REGRA DE NEGÓCIO
+//Padrão de tipagem, definir O QUE e a VARIÁVEL dos dados
 interface ICard {
     titulo: string,
     descricao: string
@@ -8,7 +10,7 @@ interface ICard {
 
 export default function Card({titulo, descricao, children}:ICard){
     return(
-        <div className="bg-red-500 p-4 rounded-lg w-[30vw]">
+        <div className="bg-red-500 p-4 rounded-lg w-[23vw]">
             <h1>{titulo}</h1>
             <p>{descricao}</p>
             {children} {/*componente, não precisa estar dentro de uma tag html*/}

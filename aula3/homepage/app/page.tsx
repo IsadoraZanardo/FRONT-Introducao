@@ -5,9 +5,8 @@ export default function Home(){
   return(
     //chamar um componente react
    <div>
-    <Header/> 
+    <Header/>  {/*navbar*/}
     <HeroSection/>
     </div>
   )
-
 }

@@ -1,3 +1,5 @@
+"use client"
+
 import Button from '@/app/componentes/ui/Button'
 
 export default function Header(){
@@ -10,14 +12,19 @@ export default function Header(){
        </div>
 
 
-
        <div className="flex gap-3">
            <p className = "cursor-pointer">Sobre</p>
            <p className = "cursor-pointer">Produtos</p>
            <p className = "cursor-pointer">Onde Estamos</p>
            <p className = "cursor-pointer">Contatos</p>
        </div>
-      <Button/>
+
+
+      <Button
+      nome="Login"
+      estilo="dark"
+      clique = {()=>{alert("Login feito com sucesso!")}} //função: {()=>{}}
+      />
 
         </div>
     )
